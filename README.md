@@ -1,2 +1,2 @@
 # FHS-Net
-coming soon
+The code will be released soon.
