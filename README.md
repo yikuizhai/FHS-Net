@@ -1,2 +1,2 @@
 # FHS-Net
-The code will be released soon.
+The code will be open-sourced upon acceptance of the paper.
